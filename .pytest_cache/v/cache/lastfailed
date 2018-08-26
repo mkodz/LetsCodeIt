@@ -1,0 +1,6 @@
+{
+  "tests/home/login_tests.py::LoginTests": true,
+  "tests/home/login_tests.py::LoginTests::test_InValidLogin": true,
+  "tests/home/login_tests.py::LoginTests::test_validLogin": true,
+  "tests/home/login_tests.py::TestStatus": true
+}
